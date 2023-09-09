@@ -12,7 +12,7 @@ This is a simple project that creates a stunning time layout using HTML tables a
 To use this project, you need to have a web browser that supports HTML, CSS.You can download the project files from this GitHub repository or clone it using the following command:
 
 ```bash
-git clone https://github.com/your-username/stunning-time-layout.git
+git clone https://github.com/webwithaman/stunning-time-table.git
 ```
 
 ## Usage
