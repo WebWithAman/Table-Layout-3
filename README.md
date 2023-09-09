@@ -15,6 +15,10 @@ To use this project, you need to have a web browser that supports HTML, CSS.You 
 git clone https://github.com/webwithaman/stunning-time-table.git
 ```
 
+# Demo
+
+You can see a live demo of this time-table https://stunningtimetablebyaman.netlify.com
+
 ## Usage
 
 To view the layout, you can open the `index.html` file in your web browser. You can also edit the `index.html`, `style.css`, and `script.js` files to change the content and appearance of the layout.
